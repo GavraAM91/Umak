@@ -1,6 +1,6 @@
 # umak
 
-A new Flutter project.
+Progres belajar penerapan flutter dengan Ui dari project sendiri
 
 ## Getting Started
 
