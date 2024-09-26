@@ -9,10 +9,10 @@ class LandingPage extends StatelessWidget {
     //   body: Center(
     //     child: Image.asset(
     //       "images/landingPage.png",
-    //       width: MediaQuery.of(context).size.width, // Mendapatkan lebar layar
+    //       width: MediaQuery.of(context).size.width,
     //       height:
-    //           MediaQuery.of(context).size.height, // Mendapatkan tinggi layar
-    //       fit: BoxFit.cover, // Membuat gambar menutupi seluruh layar
+    //           MediaQuery.of(context).size.height,
+    //       fit: BoxFit.cover,
     //     ),
     //   ),
     // );
@@ -20,7 +20,13 @@ class LandingPage extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: SizedBox(
-          child: Text("Support your\nbusiness with"),
+          child: Text(
+            "Support your\nbusiness with",
+            style: TextStyle(
+                fontFamily: "Poppins-Medium",
+                fontSize: 32,
+                color: Color(0xFF285E9F)),
+          ),
         ),
       ),
     );
