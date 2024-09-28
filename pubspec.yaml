@@ -60,6 +60,7 @@ flutter:
   assets:
     - images/pinapple.png
     - images/landingPage.png
+    - images/offer.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

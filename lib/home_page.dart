@@ -3,7 +3,7 @@ import 'package:umak/components/Menu.dart';
 import 'package:umak/components/Offer.dart';
 import 'package:umak/components/header.dart';
 import 'package:umak/components/search_bar.dart';
-import 'package:umak/theme.dart';
+// import 'package:umak/theme.dart';
 
 // class HomePage extends StatelessWidget {
 //   const HomePage({super.key});
